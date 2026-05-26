@@ -1,0 +1,23 @@
+{
+  "resources": [
+    {
+      "filePath": "app",
+      "group": "Default"
+    },
+    {
+      "filePath": "routes",
+      "group": "Default"
+    },
+    {
+      "filePath": "resources",
+      "group": "Default"
+    },
+    {
+      "filePath": "database\\migrations",
+      "group": "Default"
+    }
+  ],
+  "groups": [
+    "Default"
+  ]
+}
